@@ -1,5 +1,5 @@
 Name: greenplum_exporter
-Version: 1.1
+Version: 1.2
 Release: rhel7
 License: GPL
 Summary: Greenplum database exporter installation package for prometheus.
